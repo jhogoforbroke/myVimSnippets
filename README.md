@@ -1,0 +1,4 @@
+myVimSnippets
+=============
+
+myVimSnippets
